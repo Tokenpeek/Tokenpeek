@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/88bdc635-1f73-43f5-b263-eda723fa1c4b)
+![image](https://github.com/user-attachments/assets/0f254e7a-35f1-4a1d-a97c-d41d02e151e6)
+
 
 
 # **Token Collector: Cryptocurrency Token Data Collection**
