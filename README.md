@@ -41,7 +41,7 @@ You can install Python from [python.org](https://www.python.org/downloads/) if i
 
 First, you need to clone the repository to your local machine:
 
-git clone https://github.com/Tokenpeek/token-collector.git
+git clone [https://github.com/Tokenpeek/token-collector.git](https://github.com/Tokenpeek/Tokenpeek)
 
 ### **Step 2: Install Dependencies**
 
